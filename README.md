@@ -1,8 +1,3 @@
-# My Project
-<meta http-equiv="refresh" content="0; url=https://ro5ti5lav.github.io/weather-app/public/index.html" />
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
