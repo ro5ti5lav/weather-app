@@ -1,6 +1,6 @@
 # My Project
 
-[Visit the website](https://github.com/ro5ti5lav/weather-app/tree/master/public/index.html)
+[Visit the website](https://ro5ti5lav.github.io/weather-app/public/index.html)
 
 
 # Getting Started with Create React App
