@@ -5,7 +5,7 @@ import WeatherForecast from './components/WeatherForecast';
 
 const App: React.FC = () => {
   return (
-    <Router>
+    <Router basename="/weather-app">
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/weather/:city" element={<WeatherForecast />} />
